@@ -1,0 +1,28 @@
+
+.navbar {
+    background-color: #2E2E2E;
+}
+
+.nav-link {
+color: aliceblue;
+}
+
+.quem-somos {
+    background-color: #AC58FA;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+    color: black;
+}
+
+.parceiros {
+    color: #AC58FA;
+    background-color: #4C0B5F;
+}
+
+.dev-footer {
+    background-color: aqua;
+    text-decoration: underline;
+}
